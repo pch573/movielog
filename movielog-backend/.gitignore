@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# application-local.properties 파일은 Git이 추적하지 않도록 설정
+application-local.properties
