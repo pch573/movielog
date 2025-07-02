@@ -1,0 +1,2 @@
+INSERT INTO movies (title, director, release_date, genre, description, poster_image_url, average_rating) VALUES ('Test Movie 1', 'Tester', '2025-01-01', 'Test', 'This is a test movie.', 'http://example.com/poster.jpg', 4.0);
+INSERT INTO movies (title, director, release_date, genre, description, poster_image_url, average_rating) VALUES ('Test Movie 2', 'Tester', '2025-01-02', 'Test', 'This is another test movie.', 'http://example.com/poster2.jpg', 3.5);
